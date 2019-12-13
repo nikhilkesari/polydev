@@ -62,3 +62,4 @@ When changing files in src/ the dev workflow should work cover most use cases.
 Depending on the change you can either then close and reopen the devtools, or if
 you've made a change to the content-script or to element-zones, you must reload
 both the extension and any page you're testing it on.
+hello
